@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f1a245f8-7cf8-4ba4-bf8b-3a56d69ba27a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1YFLOba2oeUczKPFgEgnFXpVCR1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f1a245f8-7cf8-4ba4-bf8b-3a56d69ba27a" name="Default Changelist" comment="" />
+      <created>1582533364172</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582533364172</updated>
+      <workItem from="1582533365794" duration="773000" />
+      <workItem from="1582534171599" duration="90000" />
+      <workItem from="1582534281560" duration="778000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="221" y="23" key="CommitChangelistDialog2" timestamp="1582533969887">
+      <screen x="0" y="23" width="1280" height="706" />
+    </state>
+    <state x="221" y="23" key="CommitChangelistDialog2/0.23.1280.706@0.23.1280.706" timestamp="1582533969887" />
+    <state x="128" y="83" key="DiffContextDialog" timestamp="1582533962435">
+      <screen x="0" y="23" width="1280" height="706" />
+    </state>
+    <state x="128" y="83" key="DiffContextDialog/0.23.1280.706@0.23.1280.706" timestamp="1582533962435" />
+  </component>
+</project>
